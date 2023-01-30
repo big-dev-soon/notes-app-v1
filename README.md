@@ -9,7 +9,7 @@ You can choose any technologies of your own preference, the same applies to any 
 - [ ] Notes App UI matches the design and all of the UI states are implemented.
 - [ ] When adding a new note, users can fill title, category, and description. The date should be created under the hood using the current date.
 - [ ] Users can see created notes with all details and a colored label, sorted by date.
-- [ ] Users can mark notes as complete, edit, and delete them.
+- [ ] Users can mark notes as completed, edit, and delete them.
 - [ ] Users can search and filter notes.
 - [ ] When completing notes, they should have strikethrough text and become grayed out. Also, they should be moved into the end.
 - [ ] When editing notes, the date of the note should also be updated altogether with other fields.
